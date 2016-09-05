@@ -1,0 +1,11 @@
+{
+  "name": "fnjs",
+  "version": "1.0.0",
+  "description": "Function Data Structures in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Farkas",
+  "license": "ISC"
+}
