@@ -1,6 +1,7 @@
 // https://www.linkedin.com/pulse/function-data-structures-javascript-basics-kevin-greene
 // https://en.wikipedia.org/wiki/Church_encoding
 // https://gist.github.com/arian/9fa076e037334bf195da
+// http://matt.might.net/articles/js-church/
 
 const succ = (num) => (fn, x) => fn(num(fn, x))
 
